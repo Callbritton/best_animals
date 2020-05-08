@@ -1,0 +1,6 @@
+dolphin
+sloth
+human
+cow
+dog
+keke meow meow
